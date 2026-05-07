@@ -8,7 +8,7 @@ A stunning, highly responsive parallax scrolling experience built to add depth a
 
 ## 🚀 Live Demo
 
-Check out the live action here: **[View Live Demo](https://github.com/pankajtiwari-art/Parallax-scroll-animation)**
+Check out the live action here: **[View Live Demo](https://pankajtiwari-art.github.io/Parallax-scroll-animation/)**
 
 ## 🌟 Key Features
 
