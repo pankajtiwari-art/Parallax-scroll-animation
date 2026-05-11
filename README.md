@@ -39,7 +39,8 @@ To get a local copy up and running, follow these simple steps:
 Contributions, issues, and feature requests are always welcome!
 Feel free to check the issues page if you have any ideas to improve this project.
 ## 👨‍💻 Author
-Pankaj Tiwari
+get inspired by https://isladjan.com/ (isladjan) work. 
+Pankaj Tiwari 
 GitHub: @pankajtiwari-art
 
 ***If you liked this project or found it helpful, please consider giving it a ⭐️!***
